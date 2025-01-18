@@ -8,6 +8,7 @@ advert.head()
 advert.info()
 
 #Made a change here
+#test
 
 #Remove the index column 
 #We remove this as it is redundant data
