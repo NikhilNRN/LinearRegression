@@ -7,6 +7,8 @@ advert = pd.read_csv('Advertising.csv')
 advert.head()
 advert.info()
 
+#Made a change here
+
 #Remove the index column 
 #We remove this as it is redundant data
 advert.columns
